@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:ohos="http://schemas.huawei.com/res/ohos"
+                ohos:oneshot="false">
+    <item ohos:element="$media:frame1" ohos:duration="50"/>
+    <item ohos:element="$media:frame2" ohos:duration="50"/>
+    <item ohos:element="$media:frame3" ohos:duration="50"/>
+    <item ohos:element="$media:frame4" ohos:duration="50"/>
+    <item ohos:element="$media:frame5" ohos:duration="50"/>
+    <item ohos:element="$media:frame6" ohos:duration="50"/>
+    <item ohos:element="$media:frame7" ohos:duration="50"/>
+    <item ohos:element="$media:frame8" ohos:duration="50"/>
+    <item ohos:element="$media:frame9" ohos:duration="50"/>
+    <item ohos:element="$media:frame10" ohos:duration="50"/>
+    <item ohos:element="$media:frame11" ohos:duration="50"/>
+    <item ohos:element="$media:frame12" ohos:duration="50"/>
+
+    <item ohos:element="$media:frame13" ohos:duration="50"/>
+    <item ohos:element="$media:frame14" ohos:duration="50"/>
+    <item ohos:element="$media:frame15" ohos:duration="50"/>
+    <item ohos:element="$media:frame16" ohos:duration="50"/>
+    <item ohos:element="$media:frame17" ohos:duration="50"/>
+    <item ohos:element="$media:frame18" ohos:duration="50"/>
+    <item ohos:element="$media:frame19" ohos:duration="50"/>
+    <item ohos:element="$media:frame21" ohos:duration="50"/>
+
+    <item ohos:element="$media:frame22" ohos:duration="50"/>
+    <item ohos:element="$media:frame23" ohos:duration="50"/>
+    <item ohos:element="$media:frame24" ohos:duration="50"/>
+    <item ohos:element="$media:frame25" ohos:duration="50"/>
+    <item ohos:element="$media:frame26" ohos:duration="50"/>
+    <item ohos:element="$media:frame27" ohos:duration="50"/>
+    <item ohos:element="$media:frame28" ohos:duration="50"/>
+    <item ohos:element="$media:frame29" ohos:duration="50"/>
+    <item ohos:element="$media:frame30" ohos:duration="50"/>
+
+</animation-list>
